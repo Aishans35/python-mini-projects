@@ -1,20 +1,20 @@
-## Number Guessing Game 🎮
+# Python Mini Projects 🚀
 
-A beginner Python project where the computer generates a random number and the user tries to guess it.
+Collection of beginner Python projects created while learning programming.
 
-## Features
-- Random number generation
-- Unlimited guessing attempts
-- High/Low hints
-- Attempt counter
+## Projects Included
+- Number Guessing Game 🎮
+- Quiz Game ❓
 
-## Technologies Used
-- Python
-
-## What I Learned
-- Loops
+## Concepts Practiced
+- Variables
 - Conditions
+- Loops
+- Functions
+- String methods
 - Random module
+- Score tracking
 - User input
-- Debugging
-- Basic project structure
+
+## Goal
+Improving Python programming skills step-by-step through mini projects.
