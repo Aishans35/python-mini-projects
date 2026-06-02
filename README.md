@@ -5,6 +5,8 @@ Collection of beginner Python projects created while learning programming.
 ## Projects Included
 - Number Guessing Game 🎮
 - Quiz Game ❓
+- Calculator 🧮
+  
 
 ## Concepts Practiced
 - Variables
