@@ -7,6 +7,7 @@ Collection of beginner Python projects created while learning programming.
 - Quiz Game ❓
 - Calculator 🧮
 - To-Do App 📑
+- car game 🏎️
   
 
 ## Concepts Practiced
