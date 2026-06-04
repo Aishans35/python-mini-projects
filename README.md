@@ -8,6 +8,7 @@ Collection of beginner Python projects created while learning programming.
 - Calculator 🧮
 - To-Do App 📑
 - car game 🏎️
+- rock paper scissors ✊
   
 
 ## Concepts Practiced
